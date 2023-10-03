@@ -1,0 +1,260 @@
+{
+   "ny": [
+      {
+         "name": "Sven LIC",
+         "address": "29-59 Northern Blvd Long Island City, NY 11101",
+         "imgSrc": "/assets/new-york/img-1.webp",
+         "rooms": 4,
+         "bed": 3,
+         "bath": 2,
+         "size": 800,
+         "tag": "popular",
+         "price": "7,470"
+      },
+      {
+         "name": "The Tides At Arverne By The Sea",
+         "address": "190 Beach 69th St Arverne, NY 11692",
+         "imgSrc": "/assets/new-york/img-2.webp",
+         "rooms": 5,
+         "bed": 3,
+         "bath": 1,
+         "size": 637,
+         "price": "4,200"
+      },
+      {
+         "name": "Luxe By Russos",
+         "address": "241 Northern Blvd Douglaston, NY 11362",
+         "imgSrc": "/assets/new-york/img-3.webp",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 1,
+         "size": 500,
+         "tag": "popular",
+         "price": "3,500"
+      },
+      {
+         "name": "Leonard Pointe",
+         "address": "395 Leonard St Brooklyn, NY 11211",
+         "imgSrc": "/assets/new-york/img-4.webp",
+         "rooms": 2,
+         "bed": 2,
+         "bath": 1,
+         "size": 437,
+         "price": "3,728"
+      },
+      {
+         "name": "West Wharf",
+         "address": "60 Wharf Dr Brooklyn, NY 11222",
+         "imgSrc": "/assets/new-york/img-5.webp",
+         "rooms": 4,
+         "bed": 3,
+         "bath": 1,
+         "size": 494,
+         "price": "9,167"
+      },
+      {
+         "name": "7 Dekalb",
+         "address": "7 Dekalb Ave Brooklyn, NY 11201",
+         "imgSrc": "/assets/new-york/img-6.webp",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 2,
+         "size": 445,
+         "tag": "popular",
+         "price": "5,240"
+      }
+   ],
+   "mu": [
+      {
+         "name": "Hiranandani Castle Rock",
+         "address": "Hiranandani Gardens Powai, Central Mumbai suburbs",
+         "imgSrc": "/assets/mumbai/img-1.jpg",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 2,
+         "size": 777,
+         "price": "1,237"
+      },
+      {
+         "name": "Priyalok Park",
+         "address": "Bhandup East, Central Mumbai suburbs",
+         "imgSrc": "/assets/mumbai/img-2.jpg",
+         "rooms": 4,
+         "bed": 3,
+         "bath": 2,
+         "size": 2000,
+         "tag": "popular",
+         "price": "1,100"
+      },
+      {
+         "name": "Piramal Revanta",
+         "address": "Mulund West, Central Mumbai suburbs",
+         "imgSrc": "/assets/mumbai/img-3.jpg",
+         "rooms": 4,
+         "bed": 2,
+         "bath": 2,
+         "size": 785,
+         "price": "800"
+      },
+      {
+         "name": "Gangotri Apartment",
+         "address": "Walkeshwar, South Mumbai",
+         "imgSrc": "/assets/mumbai/img-4.jpg",
+         "rooms": 4,
+         "bed": 3,
+         "bath": 2,
+         "size": 470,
+         "price": "1000"
+      },
+      {
+         "name": "Hiranandani Glen Croft",
+         "address": "Hiranandani Gardens Powai, Central Mumbai suburbs",
+         "imgSrc": "/assets/mumbai/img-5.jpg",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 2,
+         "size": 850,
+         "price": "1,050"
+      },
+      {
+         "name": "Raymond Realty Phase 2",
+         "address": "Vartak Nagar, Thane",
+         "imgSrc": "/assets/mumbai/img-6.jpg",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 2,
+         "size": 515,
+         "tag": "popular",
+         "price": "610"
+      }
+   ],
+   "pa": [
+      {
+         "name": "1083 N 4290th Rd",
+         "address": "Hugo, OK 74756",
+         "imgSrc": "/assets/paris/img-1.webp",
+         "rooms": 7,
+         "bed": 5,
+         "bath": 5,
+         "size": 4000,
+         "price": "4,000"
+      },
+      {
+         "name": "1004 County Road 2140",
+         "address": "Detroit, TX 75436",
+         "imgSrc": "/assets/paris/img-2.webp",
+         "rooms": 5,
+         "bed": 4,
+         "bath": 3,
+         "size": 2400,
+         "tag": "popular",
+         "price": "1,900"
+      },
+      {
+         "name": "2800 Danita Dr",
+         "address": "Hugo, OK 74743",
+         "imgSrc": "/assets/paris/img-3.webp",
+         "rooms": 4,
+         "bed": 3,
+         "bath": 2,
+         "size": 1862,
+         "price": "1,400"
+      },
+      {
+         "name": "703 SW 1st St",
+         "address": "Cooper, TX 75432",
+         "imgSrc": "/assets/paris/img-4.webp",
+         "rooms": 2,
+         "bed": 2,
+         "bath": 1,
+         "size": 858,
+         "price": "900"
+      },
+      {
+         "name": "3935 Holbrook Dr",
+         "address": "Paris, TX 75462",
+         "imgSrc": "/assets/paris/img-5.webp",
+         "rooms": 4,
+         "bed": 4,
+         "bath": 4,
+         "size": 3400,
+         "price": "2,495"
+      },
+      {
+         "name": "610 S Collegiate Dr",
+         "address": "Paris, TX 75460",
+         "imgSrc": "/assets/paris/img-6.webp",
+         "rooms": 3,
+         "bed": 3,
+         "bath": 2,
+         "size": 1400,
+         "tag": "popular",
+         "price": "1,495"
+      }
+   ],
+   "ld": [
+      {
+         "name": "The Fairways",
+         "address": "1 Forest Ridge Rd Derry, NH 03038",
+         "imgSrc": "/assets/london/img-1.webp",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 2,
+         "size": 720,
+         "price": "2,419"
+      },
+      {
+         "name": "Th74 E Constitution Dr #74",
+         "address": "Londonderry, NH 03053",
+         "imgSrc": "/assets/london/img-2.webp",
+         "rooms": 2,
+         "bed": 2,
+         "bath": 1,
+         "size": 722,
+         "tag": "popular",
+         "price": "1,500"
+      },
+      {
+         "name": "15A Sandy Brook Ln",
+         "address": "Londonderry, NH 03053",
+         "imgSrc": "/assets/london/img-3.webp",
+         "rooms": 1,
+         "bed": 1,
+         "bath": 1,
+         "size": 744,
+         "tag": "popular",
+         "price": "1,995"
+      },
+      {
+         "name": "149K Capitol Hill Dr",
+         "address": "Londonderry, NH 03053",
+         "imgSrc": "/assets/london/img-4.webp",
+         "rooms": 2,
+         "bed": 2,
+         "bath": 1,
+         "size": 719,
+         "price": "1,799"
+      },
+      {
+         "name": "89 Oakridge Dr #89",
+         "address": "Londonderry, NH 03053",
+         "imgSrc": "/assets/london/img-5.webp",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 1,
+         "size": 1240,
+         "price": "2,950"
+      },
+      {
+         "name": "Main Street at Woodmont Commons",
+         "address": "30 Main St Londonderry, NH 03053",
+         "imgSrc": "/assets/london/img-6.webp",
+         "rooms": 3,
+         "bed": 2,
+         "bath": 2,
+         "size": 769,
+         "tag": "popular",
+         "price": "3,150"
+      }
+   ]
+}
